@@ -1,0 +1,6 @@
+ Seq Scan on orders  (cost=0.00..2185.00 rows=1 width=41) (actual time=4.746..10.116 rows=1 loops=1)
+   Filter: (customer_name = 'Cliente 50000'::text)
+   Rows Removed by Filter: 99999
+ Planning Time: 0.589 ms
+ Execution Time: 10.192 ms
+(5 rows)

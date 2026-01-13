@@ -1,0 +1,5 @@
+ Index Scan using idx_orders_customer_name on orders  (cost=0.42..8.44 rows=1 width=41) (actual time=0.090..0.092 rows=1 loops=1)
+   Index Cond: (customer_name = 'Cliente 50000'::text)
+ Planning Time: 0.686 ms
+ Execution Time: 0.160 ms
+(4 rows)
