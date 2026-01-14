@@ -1,4 +1,4 @@
-# PostgreSQL Lab — DBA Júnior
+# PostgreSQL Lab — DBA
 
 ## Objetivo
 Simular administração básica de PostgreSQL.
@@ -13,7 +13,7 @@ Simular administração básica de PostgreSQL.
 - Inserção de dados
 - Análise de query lenta
 - Criação de índice
-- Backup e restore
+- Backup e restore 
 
 ## Resultados
 - Query otimizada com índice
